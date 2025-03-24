@@ -20,40 +20,35 @@ Power BI (if applicable) – Interactive Dashboards & Visualizations
 Descriptive Statistics – Finding trends, averages, and comparisons
 
 Questions Answered & Key Insights :
-1️⃣ What are the most popular pick-up locations across NYC?
-📌 Insight: The top 20 most used pick-up stations are concentrated in high-traffic areas, such as business districts, tourist spots, and public transit hubs.
-🚀 Recommendation: Increase bike availability in high-demand locations during peak hours.
+1. What are the most popular pick-up locations across NYC?
+Insight: The top 20 most used pick-up stations are concentrated in high-traffic areas, such as business districts, tourist spots, and public transit hubs.
+Recommendation: Increase bike availability in high-demand locations during peak hours.
 
-2️⃣ How does the average trip duration vary across different age groups?
-📌 Insight:
-Young riders (18-24) take longer trips (12 mins), likely for leisure or exploration.
+2️. How does the average trip duration vary across different age groups?
+Insight: Young riders (18-24) take longer trips (12 mins), likely for leisure or exploration.
 Middle-aged groups (25-64) have stable trip durations (7-9 mins), indicating structured commuting.
 Older users (75+) have the longest trips (49 mins), suggesting a slower riding pace or sightseeing.
-🚀 Recommendation:
+Recommendation:
 Offer student discounts for younger users.
 Introduce senior-friendly bikes & guided rides for 75+ age group.
 
-3️⃣ Which age group rents the most bikes?
-📌 Insight:
-35-44 age group has the highest rentals (7,697 trips), likely due to commuting needs.
+3️. Which age group rents the most bikes?
+Insight: 35-44 age group has the highest rentals (7,697 trips), likely due to commuting needs.
 Younger (18-24) and older (75+) users have the lowest rentals, indicating barriers such as affordability or accessibility.
-🚀 Recommendation:
-Promote subscriptions & loyalty programs for 35-44 age group.
+Recommendation: Promote subscriptions & loyalty programs for 35-44 age group.
 Create discounts & targeted campaigns for younger and senior users to increase ridership.
 
-4️⃣ How do bike rentals vary between one-time users vs. long-term subscribers?
-📌 Insight:
-Subscribers rent bikes more on weekdays, suggesting daily commuters.
+4️. How do bike rentals vary between one-time users vs. long-term subscribers?
+Insight: Subscribers rent bikes more on weekdays, suggesting daily commuters.
 One-time users rent more on weekends, likely for leisure and tourism.
-🚀 Recommendation:
-Launch weekday promotions for casual users.
+Recommendation: Launch weekday promotions for casual users.
 Enhance weekend availability in tourist-heavy areas.
 
 Visualizations & Dashboard
 To make the findings interactive, I created data visualizations in Google Sheets:
-✅ Heatmaps of top pick-up locations 📍
-✅ Bar charts comparing trip duration by age ⏳
-✅ User type rental trends over weekdays/weekends 📆
+Heatmaps of top pick-up locations 📍
+Bar charts comparing trip duration by age ⏳
+User type rental trends over weekdays/weekends 📆
 
 📑 Conclusion & Business Recommendations
 Based on this analysis, Citi Bike can implement the following:

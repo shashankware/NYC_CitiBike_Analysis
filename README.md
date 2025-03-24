@@ -56,13 +56,3 @@ Based on this analysis, Citi Bike can implement the following:
   Offer promotions & discounts for underrepresented age groups.
   Optimize bike stations for different user types (commuters vs. tourists).
   Enhance accessibility & pricing strategies to encourage more ridership.
-
-📂 Project Files & Resources
-📥 Dataset: [Google Sheets / Excel File] (Add your link)
-📊 Visualizations: [Power BI Report / Google Sheets Charts] (Add your link)
-📑 Full Analysis Report: [PDF / Google Doc] (Add your link)
-
-🎯 Final Deliverables
-✅ Well-structured GitHub Repository
-✅ Portfolio Page with Visuals & Summary
-✅ LinkedIn Post Showcasing the Project

@@ -1,6 +1,9 @@
 Project Title: 
 NYC Citi Bike Rental Analysis 
 
+Project Domain :Urban Mobility / Transportation Analytics
+
+
 Project Overview:
 The NYC Citi Bike Rental Analysis aims to uncover key insights into bike-sharing usage patterns, helping us understand:
 Which locations have the highest rental activity?
